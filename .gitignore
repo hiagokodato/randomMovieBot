@@ -1,7 +1,7 @@
 # Ignorar node_modules em qualquer nível
 node_modules/
 
-# Arquivos de ambiente (manter para futura segurança, mesmo que não existam agora)
+# Arquivos de ambiente - CRÍTICO!
 .env
 client/.env
 server/.env
